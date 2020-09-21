@@ -3,7 +3,7 @@
 
 I'm a junior at Boston College studying Computer Science and Management Information Systems.
 I'm passionate about <strong>creating tangible and impactful products and applications that increase human convenience or social interaction</strong>. <br>
-I have 4 years of coding experience and have experience in <em> Python, Django, Swift, Java, Javascript, SQL, and HTML/CSS </em>.</p> 
+I have 4 years of coding experience and have experience in <em> Python, Swift, Java, Javascript, HTML/CSS, Git, Django, Bootstrap, React, jQuery, Firebase, SQL, mySQL </em>.</p> 
 <h4>Relevant Coursework</h4>
 <ul>
   <li>Computer Organization (current)</li>
@@ -25,5 +25,6 @@ I have 4 years of coding experience and have experience in <em> Python, Django, 
 </ul>
 
 <h1>📞 Reach Me At...</h1>
-<p>Email: benjamintsa@gmail.com</p>
+<p>Email: mailto:benjamintsa@gmail.com</p>
+<p>Website: https://bentsai10.github.io/</p>
 <p>Linkedin: https://www.linkedin.com/in/benjaminpctsai/</p>
