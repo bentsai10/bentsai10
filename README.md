@@ -19,7 +19,7 @@ I have 4 years of coding experience and have experience in <em> Python, Django, 
 <h1>🤔 Currently Up To...</h1>
 <ul>
   <li>Developing sorting & pathfinding algorithm visualizer website called Algorithm Visualizer (https://github.com/bentsai10/Algorithm-Visualizer) </li>
-  <li>Learning full-stack app development through Coding Dojo's part-time bootcamp (Django, MERN, Java stacks) </li>
+  <li>Learning full-stack app development through Coding Dojo's part-time bootcamp (Django, MERN, Java stacks) (https://github.com/bentsai10/mern_stack_assignments) </li>
   <li>Improving personal Github by adding ReadMEs to past projects with newly obtained knowledge of best practices</li>
   <li>Looking to expand my network and find mentors to help me further grow during my programming journey</li>
 </ul>
