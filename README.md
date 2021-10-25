@@ -3,7 +3,8 @@
 
 I'm a senior at Boston College studying Computer Science and Management Information Systems.
 I'm passionate about <strong>creating tangible and impactful products and applications that increase human convenience or social interaction</strong>. <br>
-I have 4 years of coding experience and have experience in <em> Python, Swift, Java, Javascript, HTML/CSS, Git, Django, Bootstrap, React, jQuery, Firebase, SQL, mySQL </em>.</p> 
+That passion has manifested in me currently acting as the Chief Technical Officer of a stealth startup working in the social space called The Rise <br>
+I have 5 years of coding experience and have experience in <em> Python, Swift, Java, Javascript, HTML/CSS, Git, Django, Bootstrap, React, jQuery, Firebase, SQL, mySQL, and various AWS services such as Elastic Beanstalk, EC2, RDS, S3, Route53, and IAM</em>.</p> 
 <h4>Relevant Coursework</h4>
 <ul>
   <li>Computer Science Honors Thesis (current)</li>
