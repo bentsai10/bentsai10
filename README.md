@@ -8,6 +8,7 @@ I have 5 years of coding experience and have experience in <em> Python, Swift, J
 <ul>
   <li>Computer Science Honors Thesis (current)</li>
   <li>Randomness & Computation (current)</li>
+  <li>Systems Analysis & Design (current)</li>
   <li>Computer Organization</li>
   <li>Object-Oriented Design</li>
   <li>Readings in Computer Science: Exploring Web App Development with AI & XR</li>
